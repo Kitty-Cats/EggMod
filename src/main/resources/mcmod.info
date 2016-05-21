@@ -1,0 +1,16 @@
+[
+{
+  "modid": "eggmod",
+  "name": "EggMod",
+  "description": "Smelt Obsidian Into 2 Dragon Eggs",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Joshua Gemmail"],
+  "credits": "Raf And Joshua",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
